@@ -1,0 +1,1 @@
+This is Mer's first git project!
